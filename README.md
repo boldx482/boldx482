@@ -1,1 +1,1 @@
-Hi,I'm bold.I'm a full stack web developer using reactjs,nodejs and django framework.I've also worked with postgresql,MySQL,mongodb with more than five years of experience.I'm looking forward to collaborate with you guys in building fully functioning and responsive web projects.
+Hi,my name is abdul.I'm a full stack web developer using reactjs,nodejs and django framework.I've also worked with postgresql,MySQL,mongodb with more than five years of experience.I'm looking forward to collaborate with you guys in building fully functioning and responsive web projects.
